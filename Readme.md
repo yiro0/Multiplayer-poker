@@ -4,7 +4,6 @@
 
 This project was developed as part of the **Computer Programming 2** course during the second semester.
 
-
 ## Overview
 
 The project is a multiplayer poker game application built using C++. It consists of a server that manages poker game logic, client connections, and communication, as well as a client that interacts with the server to participate in the game.
