@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This project was developed as part of the **Computer Programming 2** course during the second semester. The inspiration for this project came from a similar poker game implementation written in Java, which can be found here: [uknowmee/FiveCardsPoker](https://github.com/uknowmee/FiveCardsPoker).
+This project was developed as part of the **Computer Programming 3** course during the third semester. The inspiration for this project came from a similar poker game implementation written in Java, which can be found here: [uknowmee/FiveCardsPoker](https://github.com/uknowmee/FiveCardsPoker).
 
 ## Overview
 
